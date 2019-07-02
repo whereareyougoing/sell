@@ -1,4 +1,4 @@
-package exception;
+package com.imooc.sell.exception;
 
 import com.imooc.sell.enums.ResultEnum;
 

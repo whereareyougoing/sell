@@ -6,7 +6,7 @@ import com.imooc.sell.form.ProductForm;
 import com.imooc.sell.service.CategoryService;
 import com.imooc.sell.service.ProductService;
 import com.imooc.sell.util.KeyUtil;
-import exception.SellException;
+import com.imooc.sell.exception.SellException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
